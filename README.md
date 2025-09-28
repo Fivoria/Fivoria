@@ -1,8 +1,8 @@
 # Fivoria - Next-Generation AI-Powered Freelancing Platform
 
-[![Release Date](https://img.shields.io/badge/Release%20Date-January%201,%202026-blue.svg)](https://fivoria.com)
-[![AI Powered](https://img.shields.io/badge/AI%20Powered-Yes-green.svg)](https://fivoria.com)
-[![Template Engine](https://img.shields.io/badge/Template%20Engine-Advanced-orange.svg)](https://fivoria.com)
+[![Release Date](https://img.shields.io/badge/Release%20Date-January%201,%202026-blue.svg)](https://github.com/Fivoria)
+[![AI Powered](https://img.shields.io/badge/AI%20Powered-Yes-green.svg)](https://github.com/Fivoria)
+[![Template Engine](https://img.shields.io/badge/Template%20Engine-Advanced-orange.svg)](https://github.com/Fivoria)
 
 ---
 
