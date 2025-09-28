@@ -44,12 +44,12 @@
 
 #### **Backend Powerhouse**
 
-🔥 **`PHP 8.0+`** - Core Platform Engine  
-🚀 **`Node.js`** - Real-Time Communication  
-⚡ **`Next.js`** - Modern Frontend Framework  
-☕ **`Java`** - Enterprise Backend Services  
-🧠 **`Python 3.9+`** - AI & Machine Learning Services  
-⚡ **`Go 1.18+`** - High-Performance Transaction Processing
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16"> **PHP 8.0+** - Core Platform Engine  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="16"> **Node.js** - Real-Time Communication  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16"> **Next.js** - Modern Frontend Framework  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"> **Java** - Enterprise Backend Services  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"> **Python 3.9+** - AI & Machine Learning Services  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16"> **Go 1.18+** - High-Performance Transaction Processing  
 
 #### **AI & Machine Learning Stack**
 ```python
@@ -138,7 +138,6 @@ Revolutionary template system that transforms static files into interactive show
 ```
 🗓️ Coming January 1st, 2026
 
-
 Launch Day (January 1, 2026):
 ├── Full Platform Release
 ├── AI Features Activation
@@ -151,44 +150,10 @@ Launch Day (January 1, 2026):
 ## 🚀 **Getting Started**
 
 ### **Prerequisites**
-- Web server (Apache/Nginx)
-- PHP 8.0+, Node.js 16+, Python 3.9+, Go 1.18+
-- MySQL 8.0+, Redis
-- Docker (for containerized testing)
-
-### **Quick Setup**
-```bash
-# Clone the platform
-git clone https://github.com/fivoria/platform.git
-
-# Install dependencies
-composer install
-npm install
-pip install -r requirements.txt
-go mod download
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your configuration
-
-# Initialize database
-php artisan migrate
-
-# Start services
-docker-compose up -d
-npm run dev
-```
-
-### **AI Services Setup**
-```bash
-# Start AI services
-cd chat/ai_server
-uvicorn main:app --host 0.0.0.0 --port 8000
-
-# Start fraud detection
-cd payment/python_services/fraud_detection
-python app.py
-```
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="16" height="16"> Web server (Apache/Nginx)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16"> PHP 8.0+, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="16"> Node.js 16+, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"> Python 3.9+, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16"> Go 1.18+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16"> MySQL 8.0+, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="16" height="16"> Redis
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16"> Docker (for containerized testing)
 
 ---
 
@@ -207,7 +172,6 @@ python app.py
 
 Fivoria isn't just another freelancing platform – it's the future of digital work. With AI at its core, advanced template capabilities, and enterprise-grade infrastructure, Fivoria empowers creators, developers, and businesses to achieve more than ever before.
 
-
 [![GitHub Follow](https://img.shields.io/github/followers/Fivoria?style=social)](https://github.com/Fivoria)
 [![GitHub Stars](https://img.shields.io/github/stars/Fivoria?style=social)](https://github.com/Fivoria)
 
@@ -216,6 +180,7 @@ Fivoria isn't just another freelancing platform – it's the future of digital w
 **Follow our development progress and contribute to the future of freelancing:**
 
 🔗 **GitHub Repository**: [https://github.com/Fivoria](https://github.com/Fivoria)
+
 ## 📄 **License**
 
 This project is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
