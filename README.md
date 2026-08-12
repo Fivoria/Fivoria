@@ -8,7 +8,7 @@
 
 ## 🚀 The Future of Freelancing is Here
 
-**Fivoria** is a revolutionary AI-powered freelancing marketplace that transforms how freelancers and clients connect, collaborate, and create. Launching **January 1st, 2026**, Fivoria combines cutting-edge artificial intelligence with an intuitive user experience to deliver the world's most advanced freelancing platform.
+**Fivoria** is a revolutionary AI-powered freelancing marketplace that transforms how freelancers and clients connect, collaborate, and create. Launching **Augest 14, 2026**, Fivoria combines cutting-edge artificial intelligence with an intuitive user experience to deliver the world's most advanced freelancing platform.
 
 ---
 
